@@ -1,0 +1,51 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ann&#39;s Blog</title>
+        <link>http://example.org/</link>
+        <description>This is Ann&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>IT新人必備手冊</title>
+    <link>http://example.org/test_3/</link>
+    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
+    <author>Ann</author>
+    <guid>http://example.org/test_3/</guid>
+    <description><![CDATA[一台電腦 熟悉 Mac 操作 快捷鍵（請參考 Apple 官方說明） 手勢（請參考 Apple 官方說明） 亦可在系統偏好設定 個人化環境設定 在「系統偏好設定」中設定一開始會用到的幾]]></description>
+</item>
+<item>
+    <title>test_1</title>
+    <link>http://example.org/test_1/</link>
+    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
+    <author>Ann</author>
+    <guid>http://example.org/test_1/</guid>
+    <description><![CDATA[媒體報導，發生強震的土耳其將在11日晚間暫停各國搜救任務，由土耳其當局接手，另外前往土耳其救災的台灣搜救隊，也將在12日到14日展開撤離，身]]></description>
+</item>
+<item>
+    <title>test_2</title>
+    <link>http://example.org/test_2/</link>
+    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
+    <author>Ann</author>
+    <guid>http://example.org/test_2/</guid>
+    <description><![CDATA[Police in the northern England town of Knowsley, Merseyside, arrested three people on Friday after violence broke out during a protest outside a hotel used to house asylum seekers.
+Merseyside Police said those arrested were being held “on suspicion of violent disorder and taken to police stations to be questioned.”
+The protest, sparked by a video filmed near the hotel, had started peacefully, police said, but the situation later became tense and projectiles were thrown at the officers.]]></description>
+</item>
+<item>
+    <title>test_4</title>
+    <link>http://example.org/test_4/</link>
+    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
+    <author>Ann</author>
+    <guid>http://example.org/test_4/</guid>
+    <description><![CDATA[First Test Hi :))]]></description>
+</item>
+<item>
+    <title>test_5</title>
+    <link>http://example.org/test_5/</link>
+    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
+    <author>Ann</author>
+    <guid>http://example.org/test_5/</guid>
+    <description><![CDATA[First Test Hi :))]]></description>
+</item>
+</channel>
+</rss>
