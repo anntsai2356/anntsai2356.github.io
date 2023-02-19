@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>文件 - 分類 - Ann&#39;s Blog</title>
-        <link>http://example.org/categories/%E6%96%87%E4%BB%B6/</link>
-        <description>文件 - 分類 - Ann&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/%E6%96%87%E4%BB%B6/" rel="self" type="application/rss+xml" /><item>
-    <title>test_1</title>
-    <link>http://example.org/test_1/</link>
-    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
-    <author>Ann</author>
-    <guid>http://example.org/test_1/</guid>
-    <description><![CDATA[媒體報導，發生強震的土耳其將在11日晚間暫停各國搜救任務，由土耳其當局接手，另外前往土耳其救災的台灣搜救隊，也將在12日到14日展開撤離，身]]></description>
-</item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文件 on Ann's Blog</title><link>http://anntsai2356.github.io/categories/%E6%96%87%E4%BB%B6/</link><description>Recent content in 文件 on Ann's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Fri, 10 Feb 2023 17:00:07 +0800</lastBuildDate><atom:link href="http://anntsai2356.github.io/categories/%E6%96%87%E4%BB%B6/index.xml" rel="self" type="application/rss+xml"/><item><title>test_1</title><link>http://anntsai2356.github.io/test_1/</link><pubDate>Fri, 10 Feb 2023 17:00:07 +0800</pubDate><guid>http://anntsai2356.github.io/test_1/</guid><description>媒體報導，發生強震的土耳其將在11日晚間暫停各國搜救任務，由土耳其當局接手，另外前往土耳其救災的台灣搜救隊，也將在12日到14日展開撤離，身</description></item></channel></rss>

@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>bbb - 分類 - Ann&#39;s Blog</title>
-        <link>http://example.org/categories/bbb/</link>
-        <description>bbb - 分類 - Ann&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/bbb/" rel="self" type="application/rss+xml" /><item>
-    <title>test_5</title>
-    <link>http://example.org/test_5/</link>
-    <pubDate>Fri, 10 Feb 2023 17:00:07 &#43;0800</pubDate>
-    <author>Ann</author>
-    <guid>http://example.org/test_5/</guid>
-    <description><![CDATA[First Test Hi :))]]></description>
-</item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>bbb on Ann's Blog</title><link>http://anntsai2356.github.io/categories/bbb/</link><description>Recent content in bbb on Ann's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-TW</language><lastBuildDate>Fri, 10 Feb 2023 17:00:07 +0800</lastBuildDate><atom:link href="http://anntsai2356.github.io/categories/bbb/index.xml" rel="self" type="application/rss+xml"/><item><title>test_5</title><link>http://anntsai2356.github.io/test_5/</link><pubDate>Fri, 10 Feb 2023 17:00:07 +0800</pubDate><guid>http://anntsai2356.github.io/test_5/</guid><description>First Test Hi :))</description></item></channel></rss>
