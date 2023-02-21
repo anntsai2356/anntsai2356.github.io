@@ -63,7 +63,8 @@
 
 最後分享一個我用來激勵自己的片段，雖然這篇在討論財富自由，但這段我認為在人們跨不出自己的心魔時很可以看看。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uWv_WxwNyII?start=686" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+推薦從 [11:26](https://www.youtube.com/watch?v=uWv_WxwNyII&t=686s) 開始觀看
+{{< youtube uWv_WxwNyII>}}
 
 大意是當你想做一件事，明明沒做過，卻覺得自己做不到，人們大多時候都是被不理性的恐懼支配。
 仔細想想其實很多事情是最慘也不過那樣而已，要是我擔心部落格會做不起來而不實行，最慘的狀況就是沒有部落格而已，那何不試試呢？
