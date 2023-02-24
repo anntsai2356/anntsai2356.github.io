@@ -3,7 +3,7 @@ name: search
 on: 
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '45 17 * * *'
+    - cron:  '00 18 * * *'
     # - cron:  '00 16 * * 0' # sunday 00:00 UTC+8
 
 jobs:
@@ -23,4 +23,4 @@ jobs:
         # The index name. 
         index_name: index.json
         # The index file path relative to repo root.
-        index_file_path: .
+        index_file_path: index.json
