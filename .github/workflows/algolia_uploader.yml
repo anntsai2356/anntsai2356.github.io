@@ -26,6 +26,6 @@ jobs:
         # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ALGOLIA_ADMIN_KEY }}
         admin_key: ${{ secrets.ALGOLIA_ADMIN_KEY }}
         # The index name. 
-        index_name: index.json
+        index_name: blog
         # The index file path relative to repo root.
         index_file_path: index.json
