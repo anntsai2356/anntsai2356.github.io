@@ -3,7 +3,7 @@ name: Search
 on: 
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '30 17 * * *'
+    - cron:  '37 17 * * *'
     # - cron:  '00 16 * * 0' # sunday 00:00 UTC+8
 
 jobs:
