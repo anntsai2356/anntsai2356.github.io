@@ -1,9 +1,9 @@
-name: Search
+name: search
 
 on: 
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '37 17 * * *'
+    - cron:  '45 17 * * *'
     # - cron:  '00 16 * * 0' # sunday 00:00 UTC+8
 
 jobs:
@@ -17,10 +17,10 @@ jobs:
     - uses: wangchucheng/algolia-uploader@master
       with:
         # Such as `Z0U0ACGBN8`
-        app_id: 'DFTF66CR2G'
+        app_id: DFTF66CR2G
         # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ALGOLIA_ADMIN_KEY }}
         admin_key: ${{ secrets.ALGOLIA_ADMIN_KEY }}
         # The index name. 
         index_name: index.json
         # The index file path relative to repo root.
-        index_file_path: public
+        index_file_path: .
