@@ -1,7 +1,7 @@
 # 關於這裡的一些事
 
 
-`更新於 2023-02-26`
+`更新於 2023-03-12`
 
 ## Hi :D
 我是 Ann 👋🏻 本業是軟體工程師，副業還在開發中。
@@ -26,4 +26,10 @@
 ## 里程碑
 2023-02｜部落格開站
 
-###### 若對本站的內容有更多想法，歡迎留言交流！
+## 哪裡還有更多的我
+本來連結可以放在更顯眼的地方，不過我就是想任性地放在這，這種隱密的角落有尋寶的感覺吧？（並沒有）
+
+ - [GitHub](https://github.com/anntsai2356)
+ - [Instagram](https://www.instagram.com/atstalk)
+ - [Facebook](https://www.facebook.com/atstalk)
+
